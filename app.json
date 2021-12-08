@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "confeti-counter",
-    "slug": "confeti-counter",
+    "name": "color changer",
+    "slug": "color-changer",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
   "name": "confeti-counter"
 }
